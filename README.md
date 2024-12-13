@@ -1,16 +1,6 @@
 # webpack-template
 
-Use this basic template for future projects if we intend to use webpack.
-Don't forget to run npm install to initialize webpack.
+This Repo is mainly to familiarize myself with using Jest. I only worked on a js file with random functions and tested them in their respective test files.
 
-current added npm scripts
-- npm run dev = npx webpack serve
-- npm run build = npx webpack
-- npm run deploy = push to github pages
-
-Format files with Prettier
-- npx prettier . --write
-
-Run ESLint with
-- npx eslint yourfile.js
+Some functions aren't correct for all edge cases since I mainly wanted to focus on getting used to writing test :)
 
